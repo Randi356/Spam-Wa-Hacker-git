@@ -76,7 +76,7 @@ def RupaRupa():
 			data_1 = {
 			
 			'phone' : number,
-			'email' : 'jejak@gmail.com',
+			'email' : 'randywahidin321@gmail.com',
 			'action' : 'register',
 			'password' : ''
 			
@@ -205,7 +205,7 @@ def Spam():
 	print
 	print(C+'MENU'+W+' :')
 	print(C+'\t['+W+'1'+C+']'+W+' SPAM TOKOPEDIA'+C+' ( '+H+'Aktif'+C+' )')
-	print(C+'\t['+W+'2'+C+']'+W+' SPAM RUPA-RUPA'+C+' ( '+M+'NonAktif'+C+' )')
+	print(C+'\t['+W+'2'+C+']'+W+' SPAM RUPA-RUPA'+C+' ( '+M+'Aktif'+C+' )')
 	print
 	
 	try:
