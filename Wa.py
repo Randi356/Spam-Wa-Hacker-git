@@ -197,7 +197,6 @@ def Spam():
 	os.system('clear')
 	print(C+'Chat Join'+W+' PM !'+C+' :)')
 	sleep(1.5)
-	os.system('xdg-open https://t.me/anonymous_cyberhack1/')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
